@@ -1,2 +1,2 @@
 # sentimen-analisis
-Sentimen Analisis menggunakan bahasa pemrograman Pyton 
+Sentimen Analisis pada komentar instagram menggunakan bahasa pemrograman Pyton 
